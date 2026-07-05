@@ -42,7 +42,7 @@ Back-End
 ⚙️ Installation
 
     Cloner le dépôt :
-        git clone https://github.com/votre-utilisateur/enchere-live.git
+        git clone https://github.com/ZakariaRITI/EnchereLive.git
 
     Configuration Back-End :
 
