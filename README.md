@@ -42,9 +42,7 @@ Back-End
 ⚙️ Installation
 
     Cloner le dépôt :
-    Bash
-
-    git clone https://github.com/votre-utilisateur/enchere-live.git
+        git clone https://github.com/votre-utilisateur/enchere-live.git
 
     Configuration Back-End :
 
@@ -53,8 +51,7 @@ Back-End
         Lancez le projet via votre IDE ou via Maven : mvn spring-boot:run.
 
     Configuration Front-End :
-    Bash
 
-    cd frontend
-    npm install
-    npm start
+        cd frontend
+        npm install
+        npm start
